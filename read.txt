@@ -1,0 +1,22 @@
+ 
+ PRACTICAL EXAM 
+How to create your own Cryptocurrency token on Ethereum
+Blockchain?
+
+STEPS
+1. First of all claim faucet for ethereum blockchain because mainnet of ethereum very costly thats why we using faucet.
+faucet websites for goerli ethereum (GETH must maintain atleast 0.001 mainnet ethereum) 
+1.1 https://faucet.triangleplatform.com/ethereum/goerli
+1.2 https://goerlifaucet.com/
+
+2. after claiming faucet vist any token builder website which support goerli testnet for example 
+ https://www.createmytoken.com/token-builder/
+
+3. how to mint your created Cryptocurrency token on Ethereum
+Blockchain?
+
+3.1 type token information https://www.createmytoken.com/token-builder/ like token name symbol 
+3.2 select token features like token supply burn, reflection.
+3.3 click on token deploy.
+3.4 pay deployment fee using metamask.
+3.5  you can look transaction on etherscan https://goerli.etherscan.io/tx/0x40f2216c3eb9ca3bbfd8eb03de171acf481702a2539ab998e161cd7543778ccd
